@@ -1,4 +1,4 @@
-# gill-contribution [project link](https://github.com/users/hnariman/projects/11)
+# gill-contribution [project board link](https://github.com/users/hnariman/projects/11)
 
 ## ideas on contribution:
 (this is an open document, please feel free to improve/extend it to help peers get rolling with their contributions asap)
